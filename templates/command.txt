@@ -1,0 +1,9 @@
+python C:\Users\kdd_lab_traffic\Desktop\TRAFFIC\app.py runserver
+http://127.0.0.1:5000/
+http://localhost/phpmyadmin/
+root
+rootroot
+
+word record
+C:/Users/kdd_lab_traffic/Desktop/TRAFFIC/templates/
+href="C:/Users/kdd_lab_traffic/Desktop/TRAFFIC/templates/ContactFrom_v5/
